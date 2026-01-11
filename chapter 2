@@ -1,1 +1,76 @@
+web-technology-chapter-2
+Name Manish Adhikari
+
+Why is ”Documentation” important in the development lifecycle?
+ans Documentation is important because it records how a system works and why decisions were made, helping teams communicate clearly, maintain and update the software efficiently, onboard new developers faster, and reduce errors and costs throughout the development lifecycle.
+
+Differentiate between Front-end and Back-end development.
+ans Front-end vs Back-end Development 1.Front-end development** focuses on the user interface and user experience. It deals with what users see and interact with directly, using technologies like HTML, CSS, and JavaScript. 2.Back-end development** focuses on server-side logic and data handling. It manages databases, servers, and application logic, using languages like Python, Java, PHP, or Node.js.
+
+"Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase ans Planning is regarded as the most critical phase of web development because it forms the foundation on which all other phases—design, development, testing, deployment, and maintenance—are built. A well-planned project reduces uncertainty, prevents rework, saves time and cost, and ensures that the final website meets both user needs and business goals.
+
+During the planning phase, the following key activities are performed:
+
+Requirement Analysis This involves understanding the client’s objectives, target audience, functional requirements, and non-functional requirements (such as performance and security). Clear requirements help avoid misunderstandings later in the project.
+
+Defining Project Scope The scope outlines what features and services the website will include and what is excluded. This prevents scope creep and ensures that the project remains manageable and aligned with agreed goals.
+
+Content Planning Decisions are made about the type of content required, such as text, images, videos, and downloadable resources. It also includes planning how content will be created, reviewed, and updated.
+
+Site Structure and Navigation Planning A sitemap and user flow are created to define how pages are organized and how users will navigate the site. This improves usability and ensures a logical structure.
+
+Technology and Platform Selection Appropriate technologies, frameworks, content management systems, databases, and hosting solutions are selected based on project requirements, scalability, and budget.
+
+Timeline and Resource Planning This activity involves creating a project schedule, setting milestones, allocating tasks, and assigning team roles. It also includes budgeting and resource estimation.
+
+Risk Assessment and Feasibility Analysis Potential risks such as technical challenges, time constraints, or budget limitations are identified. Feasibility analysis ensures the project can be realistically completed with available resources.
+
+Documentation and Approval All planning decisions are documented and reviewed with stakeholders for approval. This documentation acts as a reference throughout the development lifecycle.
+
+Conclusion: Effective planning ensures clarity, direction, and control over the web development process. Since errors made during planning can affect all later stages, this phase is rightly considered the most critical in web development.
+
+Explain the iterative nature of the Maintenance phase. Why is a website never truly "finished”?
+ans The maintenance phase of web development is iterative because it happens in continuous cycles rather than as a one-time task. After a website is launched, it must be regularly reviewed, updated, and improved to remain effective, secure, and relevant.
+
+Iterative nature of the Maintenance phase
+Maintenance follows a repeating loop:
+
+Monitor – Track performance, user behavior, errors, and feedback.
+Identify issues or improvements – Bugs, broken links, slow pages, or missing features are discovered.
+Update and fix – Apply bug fixes, content updates, security patches, and performance improvements.
+Test – Ensure updates work correctly and don’t introduce new problems.
+Deploy and review again – Changes go live, and the cycle repeats.
+This loop continues throughout the website’s lifetime.
+
+Why a website is never truly “finished”
+ans A website is never finished because: 1.User needs change over time 2.Technology evolves (browsers, devices, frameworks) 3.Security threats emerge, requiring regular updates 4.Content must stay current (news, products, policies) 5.Business goals grow or shift, demanding new features Because these changes are constant, maintenance is an ongoing, iterative process. A website is not a static product but a living system that must continually adapt to remain useful and effective.
+
+Describe the process of "Information Gathering.” Why is understanding the target audience crucial during this step?
+ans Information Gathering is the initial step in the web development process where developers, designers, and stakeholders collect all relevant data needed to build a website. This involves understanding the client’s goals, the purpose of the website, the content requirements, technical constraints, competitors’ analysis, and the target audience.
+
+Steps in Information Gathering: 1.Identifying Goals: Understanding what the website aims to achieve (e.g., selling products, providing information, promoting services). 2.Understanding Stakeholders: Gathering expectations and requirements from clients, users, and other stakeholders. 3.Content Collection: Listing the type of content required, such as text, images, videos, and interactive elements. 4.Technical Requirements: Determining the platform, tools, and technologies needed for development. 4.Competitor Analysis: Researching similar websites to identify features and trends. 5.Target Audience Analysis: Understanding who the end-users are, their preferences, behaviors, and needs.
+
+#.Importance of Understanding the Target Audience: 1.Personalization: Allows the website to be designed in a way that appeals to the specific users. 2.Usability: Ensures that navigation, design, and content are user-friendly. 3.Effective Communication: Helps in choosing the right tone, style, and type of content to engage users. 4.Higher Engagement & Conversion: Understanding the audience increases the chances of achieving the website’s goals, like sales, subscriptions, or information dissemination.
+
+You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+ans Imagine we launch your e-commerce website without testing. A customer tries to buy a product, but the checkout button doesn’t work on their mobile device. Another customer enters their payment details, but due to a security vulnerability, their information is exposed. Additionally, some users using older browsers see a broken layout and cannot navigate the site at all. These problems could lead to lost sales, frustrated customers, and damage to your brand reputation. Fixing these issues after launch will also be much more expensive and time-consuming than addressing them during testing. Conclusion: Skipping the testing phase may save time or money initially, but the potential risks—security breaches, broken functionality, and compatibility issues—can severely harm your business. Testing ensures your site is secure, functional, and reliable for all users from day one.
+
+A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
+ans The developer skipped the planning and design phase, which includes creating a sitemap and design prototype. By starting coding immediately: No visual or structural approval: The client never saw the layout or site structure beforehand, so their preferences were unknown. Wasted time and resources: Halfway through coding, the client rejected the layout, meaning work had to be redone. Poor communication: The developer did not involve the client in iterative feedback, leading to misalignment of expectations.
+
+How It Should Have Been Handled:
+1.Information Gathering: Understand the client’s goals, target audience, and content needs. 2.Sitemap Creation: Plan the website structure and navigation to show the client the flow of pages. 3.Design Prototype / Mockups: Create visual layouts of key pages for client approval before coding. 4.Iterative Feedback: Present designs in stages to ensure the client’s requirements are met, minimizing costly changes during development.
+
+A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase
+ans Here’s a clear, scenario-based answer:
+
+Neglected Phase: The Maintenance Phase was neglected. Explanation: The Maintenance Phase ensures that a website remains up-to-date, functional, and relevant after launch. In this scenario, the university website’s content—specifically exam schedules—was not updated, causing students to stop visiting.
+
+Activities Involved in the Maintenance Phase:
+
+Content Updates: Regularly updating information such as exam schedules, news, events, and announcements.
+Bug Fixes: Identifying and fixing errors or broken links that appear over time.
+Performance Monitoring: Ensuring the website loads quickly and operates smoothly on all devices.
+Security Updates: Applying patches and updates to protect against hacking or data breaches.
+User Feedback Integration: Adjusting features based on user suggestions to improve usability.
 
