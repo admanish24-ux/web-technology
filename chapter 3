@@ -1,0 +1,128 @@
+Group A: Short Questions (2 Marks)
+# Define Information Architecture (IA).
+Information Architecture (IA) is the practice of organizing, structuring, and labeling content on a website so users can easily find and understand information.
+
+ # what is a “Wireframe”?
+ - A wireframe is a basic visual blueprint of a webpage that shows layout, content placement, and functionality without design details like colors or images.
+
+# Explain the concept of “Cognitive Friction” in web design.
+-Cognitive friction refers to the mental effort required by users when a website is confusing, cluttered, or inconsistent, making tasks harder to complete.
+
+#Why should URL slugs use hyphens instead of underscores?
+-Search engines treat ,hyphens (-) as word separators
+Underscores (_) are read as one word
+#Example:
+ web-design basics (readable)
+- web design basics (less SEO-friendly)
+
+Group B: Long Questions 
+ Compare Hierarchical  structure and Linear (Sequential) structure.
+-Aspect Hierarchical Structure	Linear Structure
+ Organization	Parent–child relationship	Step-by-step order
+ Navigation	Multiple paths	Single path
+ Best Large, complex websites	Tutorials, forms
+
+Examples:
+Hierarchical: University website (Departments → Courses)
+Linear: Online exam or checkout process
+
+ Explain the “Three-Click Rule” and its significance in UX design.
+-The Three-Click Rule suggests users should find information within three clicks.
+-Significance:
+Reduces frustration
+Improves engagement
+Encourages better navigation 
+
+# “Plan before you do” Explain how Card Sorting and Flowcharts help.
+Card Sorting: Helps understand how users naturally group content
+
+Flowcharts: Show user paths and page relationships
+
+Together, they:
+
+Improve navigation logic
+
+Reduce confusion
+
+Save redesign time
+
+Group C: Scenario-Based Questions (5 Marks)
+8. University Website Structure
+
+Chosen Model: Hierarchical (Tree) Structure
+
+Justification:
+
+Handles large content efficiently
+
+Matches user mental models
+
+Allows easy expansion
+
+Rough Diagram:
+
+Home
+ ├── Admissions
+ │    ├── UG
+ │    └── PG
+ ├── Departments
+ │    ├── Science
+ │    └── Arts
+ ├── Alumni
+ └── News
+
+9. Navigation Failure & KISS Principle Analysis
+
+Problem:
+
+Navigation hidden behind a small icon on desktop
+
+Users cannot find it quickly
+
+KISS Principle Violation:
+
+Desktop users expect visible menus
+
+Over-minimalism increases confusion
+
+Result:
+
+High bounce rate
+
+Poor usability
+
+Solution:
+
+Use clear, visible navigation
+
+Avoid hiding essential elements unnecessarily
+
+10. Bad URL Structure Analysis & Improved SEO-Friendly Version
+
+Bad URL:
+
+www.shop.com/prod?id=55&cat=9
+
+Why it’s bad:
+
+Not readable by humans
+
+Hard to remember or share
+
+Poor SEO (no keywords)
+
+Search engines can’t infer page meaning
+
+Better URL using Page Slugs:
+www.shop.com/electronics/smartphone
+
+
+Benefits:
+
+User-friendly
+
+Keyword-rich
+
+Improves SEO ranking
+
+Clearly describes content
